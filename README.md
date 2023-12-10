@@ -12,6 +12,7 @@
 - You need to move to as much pillars as possible to gain the score and if you reach the next pillar you get one point.
 - If your stick is out of the range of the pillars then you will fall from the stick and you will loose the game.
 - But you will be able to continue the game if you click on the revive button, but 2 cherries will be deducted and your score will be kept in the game and your game will be resumed.
+- Implemented Singleton and Iterator design patterns.
 
 
 ============================================================================================
